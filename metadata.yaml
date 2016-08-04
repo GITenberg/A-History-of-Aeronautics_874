@@ -1,0 +1,31 @@
+_repo: A-History-of-Aeronautics_874
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Vivian, Evelyn Charles
+    alias: Vivian, E. Charles (Evelyn Charles)
+    birthdate: 1882
+    deathdate: 1947
+    gutenberg_agent_id: '453'
+    url: http://www.gutenberg.org/2009/agents/453
+  - agent_name: Marsh, W. Lockwood (William Lockwood)
+    alias: Marsh, William Lockwood
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '454'
+    url: http://www.gutenberg.org/2009/agents/454
+description: ''
+gutenberg_issued: '1997-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- History'
+- !lcc 'TL'
+- GITenberg
+title: A History of Aeronautics
+url: http://www.gutenberg.org/ebooks/874
